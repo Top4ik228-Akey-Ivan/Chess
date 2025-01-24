@@ -1,0 +1,2 @@
+*{margin:0;padding:0}.App{align-items:center;height:100vh;justify-content:center;width:100vw}.App,.board{display:flex}.board{flex-wrap:wrap;height:512px;width:512px}.cell{align-items:center;display:flex;height:64px;justify-content:center;width:64px}.cell img{height:48px;position:relative;width:48px}.black{background-color:#56a871}.white{background-color:#eac0b1}.selected{background-color:brown}.available{background-color:#9932cc;border-radius:50%;height:12px;width:12px}
+/*# sourceMappingURL=main.6fe3fee8.css.map*/
