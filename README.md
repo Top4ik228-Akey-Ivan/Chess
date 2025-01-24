@@ -9,11 +9,16 @@
     <img src="https://img.shields.io/badge/-REACT-000000?style=for-the-badge&logo=REACT" alt="react"/>
 </div>
 
+## Деплой проекта
+
+Приложение доступно на github pages по ссылке ниже
+### [`Chess`](https://top4ik228-akey-ivan.github.io/Chess/)
+
 ## Запуск проекта
 
 В терминале папки Frontend прописать:
 
-### `npm start`
+### `npm i; npm start`
 
 Проект запустится по адресу: [http://localhost:3000](http://localhost:3000)
 
